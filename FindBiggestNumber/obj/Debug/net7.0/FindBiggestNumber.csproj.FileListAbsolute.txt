@@ -1,0 +1,14 @@
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.AssemblyInfoInputs.cache
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.AssemblyInfo.cs
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.exe
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.deps.json
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.runtimeconfig.json
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.dll
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\bin\Debug\net7.0\FindBiggestNumber.pdb
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.dll
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\obj\Debug\net7.0\refint\FindBiggestNumber.dll
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.pdb
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\obj\Debug\net7.0\FindBiggestNumber.genruntimeconfig.cache
+C:\Users\Buhle Mcetywa\source\repos\FindBiggestNumberSln\FindBiggestNumber\obj\Debug\net7.0\ref\FindBiggestNumber.dll
